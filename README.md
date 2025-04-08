@@ -1,1 +1,1 @@
-# -Base-SAS-Certified-Programmer-
+# Base-SAS-Certified-Programmer
